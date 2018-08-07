@@ -16,7 +16,7 @@
     ],
     "minimum-stability":"dev",
     "autoload":{
-        "psr4":{"Silvio\\SON\\":"src/Silvio/SON"}
+        "psr-4":{"Silvio\\SON\\":"src/Silvio/SON"}
     }
 }
 
